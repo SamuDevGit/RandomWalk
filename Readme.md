@@ -24,7 +24,7 @@ Instalar dependencias:
 python -m pip install matplotlib customtkinter
 ```
 
-## ▶Ejecución
+## Ejecución
 
 Ejecuta la interfaz:
 
