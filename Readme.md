@@ -66,7 +66,7 @@ En `config.py`:
 - `A = 1664525`
 - `C = 1013904223`
 - `M = 2**32`
-- `DEFAULT_SEED = 95077`
+- `DEFAULT_SEED = 12345`
 
 Estos parámetros se usan en `generators/gcl.py` (congruencial lineal).
 
